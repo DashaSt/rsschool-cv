@@ -29,4 +29,4 @@ function multiply(a, b){
 ## English language
 At the moment, the level of English proficiency is A1
 
-https://DashaSt.github.io/rsschool-cv/cv
+[Link cv](https://DashaSt.github.io/rsschool-cv/cv)
