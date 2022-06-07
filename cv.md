@@ -15,11 +15,9 @@ Information technologies break in rapidly every year and affect almost every soc
 * GitHub
 ***
 ## Code
-
-
-    alert( 'Hello, World!');
-    </script>
-    <p>  </p>
+function multiply(a, b){
+  return a * b
+}
 ***
 ## Exprience
 * No experience in developing and writing applications or code
@@ -30,3 +28,5 @@ Information technologies break in rapidly every year and affect almost every soc
 ***
 ## English language
 At the moment, the level of English proficiency is A1
+
+https://DashaSt.github.io/rsschool-cv/cv
